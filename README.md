@@ -1,3 +1,4 @@
+![banner](bane-r.png)
 # 📊 Introduction to Statistics for Data Science
 
 An interactive educational web application designed to simplify the fundamentals of statistics for Data Science and Machine Learning through modern visualizations, practical examples, and intuitive explanations.
